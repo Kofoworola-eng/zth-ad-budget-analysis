@@ -1,0 +1,169 @@
+Timestamp,NAME,Gender,EMAIL ADDRESS,PHONE NUMBER  (Add country code e.g +234),"COUNTRY  (e.g. Nigeria, UK)",CHOICE OF COURSE,Occupation,How did you hear about our Program?,country_clean
+2026-05-06 11:03:32,Sanni,Male,sann@gmail.com,+23481,Nigeria,Financial Analytics,Data analyst,Linkedin,Nigeria
+2026-05-06 15:19:31,lydia,Female,imal@gmail.com,+25677,Uganda,Data science and ML,IT,Linkedin,Uganda
+2026-05-06 17:02:15,Ifedolapo,Female,Ifed@gmail.com,+23481,Nigeria,Healthcare Data Analytics,Student,X (Twitter),Nigeria
+2026-05-06 22:54:00,Okhakumhe,Female,ochu@gmail.com,+23470,Nigeria,Supply Chain Analytics,Pharmacist,Linkedin,Nigeria
+2026-05-07 12:14:57,Valarie,Female,vala@gmail.com,+25479,Kenya,Data science and ML,Data Analyst,X (Twitter),Kenya
+2026-05-07 13:18:04,Priscilla,Female,Bkey@gmail.com,+23324,Ghana,Data science and ML,Engineer,X (Twitter),Ghana
+2026-05-07 18:03:06,Timi,Female,iamt@gmail.com,+23490,Nigeria,Data science and ML,Bi analysis,WhatsApp Community,Nigeria
+2026-05-08 12:16:43,Ozigi,Female,hajr@gmail.com,+23490,Nigeria,Supply Chain Analytics,Sale's Representative,Referral,Nigeria
+2026-05-11 05:33:39,Taiwo,Female,taiw@gmail.com,+23470,Nigeria,Healthcare Data Analytics,Student/Photographer,Referral,Nigeria
+2026-05-11 12:35:47,Samuel,Female,sams@gmail.com,+23470,Nigeria,Sales and Marketing Analytics,Student,WhatsApp Community,Nigeria
+2026-05-12 09:15:05,Annaliisa,Female,nnta@gmail.com,81458,namibia,Data science and ML,student,Linkedin,Namibia
+2026-05-13 14:21:48,Margaret,Female,marg@gmail.com,+25474,Kenya,Supply Chain Analytics,IT Service desk Support,Linkedin,Kenya
+2026-05-14 15:57:44,Olubodun,Female,ai2o@gmail.com,+234 8,Nigeria,Sales and Marketing Analytics,A business owner and a corp member,X (Twitter),Nigeria
+2026-05-14 16:26:33,Julius,Male,juli@gmail.com,,Ghana,Financial Analytics,Customer Service,X (Twitter),Ghana
+2026-05-14 16:34:43,Iho,Male,web3@gmail.com,+23490,Nigeria,Healthcare Data Analytics,Healthcare professional,X (Twitter),Nigeria
+2026-05-14 17:02:55,Owoeye,Male,Owoe@gmail.com,+234 0,Nigeria,Data science and ML,Unemployed,X (Twitter),Nigeria
+2026-05-14 17:04:12,Yusuf,Male,iamy@gmail.com,+23470,Nigeria,Healthcare Data Analytics,Teacher,X (Twitter),Nigeria
+2026-05-14 17:04:35,Victor,Male,vict@gmail.com,81044,Nigeria,Data science and ML,civil servant,X (Twitter),Nigeria
+2026-05-14 17:19:23,Nthabeleng,Female,ntha@gmail.com,+27842,South Africa,Data science and ML,Unemployed,X (Twitter),South Africa
+2026-05-14 17:27:49,Orimolade,Male,Mann@gmail.com,+22507,Côte d’Ivoire,Data science and ML,Teacher,X (Twitter),Ivory Coast
+2026-05-14 17:27:51,Lusinde,Male,vale@gmail.com,+25470,Kenya,Healthcare Data Analytics,It Support,X (Twitter),Kenya
+2026-05-14 17:34:43,Lawal,Male,Tohe@gmail.com,+23490,Nigeria,Supply Chain Analytics,Graduate,X (Twitter),Nigeria
+2026-05-14 17:43:51,Ahmad,Male,yant@gmail.com,+23480,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-14 18:06:47,Palesa,Female,Phir@gmail.com,+27722,South Africa,Healthcare Data Analytics,Unemployment,Facebook,South Africa
+2026-05-14 18:07:45,Ian,Male,sted@gmail.com,+254 7,Kenya,Healthcare Data Analytics,IT,X (Twitter),Kenya
+2026-05-14 18:12:49,Laura,Female,erel@gmail.com,+23481,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-14 18:15:45,Abayomi,Male,Abay@gmail.com,813899,Nigeria,Healthcare Data Analytics,Fashion designer,X (Twitter),Nigeria
+2026-05-14 18:18:47,Samuel,Male,samw@gmail.com,+25472,KENYA,Data science and ML,UNDERWRITER,X (Twitter),Kenya
+2026-05-14 18:18:49,Sibusiso,Male,Snmy@gmail.com,+27817,South Africa,Sales and Marketing Analytics,Sales Executive,X (Twitter),South Africa
+2026-05-14 18:21:09,Essien,Male,lexy@gmail.com,+23470,Nigeria,Data science and ML,Auditor,X (Twitter),Nigeria
+2026-05-14 18:22:57,Ibrahim,Male,Ibra@gmail.com,+23490,Nigeria,Financial Analytics,Entrepreneur,X (Twitter),Nigeria
+2026-05-14 18:30:31,Ursula,Female,Ursu@gmail.com,+27769,South Africa,Healthcare Data Analytics,Administrative Co-ordinator,X (Twitter),South Africa
+2026-05-14 18:32:11,Abimbola,Female,Bimb@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,Baker,X (Twitter),Nigeria
+2026-05-14 18:33:07,Jeffery,Male,Jabr@gmail.com,+233 5,Ghana,Data science and ML,Quantity Surveyor,X (Twitter),Ghana
+2026-05-14 18:36:44,Onipede,Male,temi@gmail.com,+23481,Nigeria,Data science and ML,Self Employed,X (Twitter),Nigeria
+2026-05-14 18:41:11,courtney,Female,cour@gmail.com,+44 79,united kingdom,Data science and ML,carer,X (Twitter),United Kingdom
+2026-05-14 18:42:41,Okpubigho,Male,Okpu@gmail.com,+23481,Nigeria,Data science and ML,Business man,X (Twitter),Nigeria
+2026-05-14 18:43:17,Emmanuel,Male,Emma@gmail.com,91606,Nigerian,Sales and Marketing Analytics,Businessman,X (Twitter),Nigeria
+2026-05-14 18:43:57,Bankole,Female,bank@gmail.com,+23470,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-14 18:44:11,Sheila,Female,shei@gmail.com,254723,Kenya,Data science and ML,Banker,X (Twitter),Kenya
+2026-05-14 18:50:26,Glory,Male,glor@gmail.com,+234 7,Nigeria,Data science and ML,STUDENT,X (Twitter),Nigeria
+2026-05-14 18:56:37,Tinotenda,Male,tino@gmail.com,+26378,Zimbabwe,Data science and ML,Not employed,X (Twitter),Zimbabwe
+2026-05-14 19:03:06,Antony,Male,tonn@gmail.com,254708,Kenya,Sales and Marketing Analytics,Microfinance Branch Manager,X (Twitter),Kenya
+2026-05-14 19:04:00,Elena,Female,Mart@gmail.com,+23481,Nigeria,Supply Chain Analytics,Trader,X (Twitter),Nigeria
+2026-05-14 19:04:11,Benjamin,Male,Damo@gmail.com,+23490,Nigeria,Sales and Marketing Analytics,Financial analyst,X (Twitter),Nigeria
+2026-05-14 19:05:03,Lambert,Male,mure@gmail.com,254721,Kenya,Data science and ML,Nairobi,X (Twitter),Kenya
+2026-05-14 19:05:10,Tieho,Male,tieh@gmail.com,+27 62,South Aftrica,Financial Analytics,Accountant,X (Twitter),South Africa
+2026-05-14 19:12:28,Ifeanyi,Male,Iebu@gmail.com,90390,Nigeria,Financial Analytics,Unemployed,X (Twitter),Nigeria
+2026-05-14 19:12:56,Isaac,Male,iadu@gmail.com,+23324,Ghana,Data science and ML,Student,X (Twitter),Ghana
+2026-05-14 19:16:04,Muhammad,Male,muha@gmail.com,+23480,Nigeria,Sales and Marketing Analytics,Administrative professionals,X (Twitter),Nigeria
+2026-05-14 19:17:22,david,Male,dhin@gmail.com,972921,usa,Data science and ML,product development,X (Twitter),United States
+2026-05-14 19:26:25,Okouromi,Male,Okou@gmail.com,81031,Nigeria,Financial Analytics,Mechatronics engineering,X (Twitter),Nigeria
+2026-05-14 19:26:36,Katlego,Male,Info@gmail.com,+27,South Africa,Data science and ML,Engineering Manager,X (Twitter),South Africa
+2026-05-14 19:29:54,Ezechukwu,Male,fran@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,Pharmacist,X (Twitter),Nigeria
+2026-05-14 19:34:20,Obasa,Male,Obas@gmail.com,+23481,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-14 19:34:52,Nneka,Female,nnek@gmail.com,+234 7,Nigeria,Healthcare Data Analytics,Customer service,X (Twitter),Nigeria
+2026-05-14 19:35:25,Areah,Male,area@gmail.com,+25474,Kenya,Supply Chain Analytics,Fleet and Logistics Supervisor,X (Twitter),Kenya
+2026-05-14 19:39:33,Lesedi,Female,Lbse@gmail.com,+27763,South Africa,Data science and ML,Auditor,X (Twitter),South Africa
+2026-05-14 19:40:37,Jubril,Male,Jayl@gmail.com,+23470,Ireland,Financial Analytics,Builder,X (Twitter),Ireland
+2026-05-14 19:41:59,Joel,Male,samu@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,Gadget dealer,X (Twitter),Nigeria
+2026-05-14 19:42:46,Akinlolu,Male,akin@gmail.com,+23470,Nigeria,Healthcare Data Analytics,Lecturer,X (Twitter),Nigeria
+2026-05-14 19:43:38,Akapo,Male,Akap@gmail.com,+23481,Nigeria,Data science and ML,Banking,X (Twitter),Nigeria
+2026-05-14 19:45:13,Chidera,Female,chid@gmail.com,+1 431,Canada,Data science and ML,Customer service,X (Twitter),Canada
+2026-05-14 19:47:13,Uchenna,Female,loui@gmail.com,+23470,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-14 19:50:12,Pendulo,Male,Mpen@gmail.com,+27764,South Africa,Data science and ML,General Worker,X (Twitter),South Africa
+2026-05-14 19:52:42,Jire,Male,Jire@gmail.com,+23490,Nigeria,Financial Analytics,Data analyst,X (Twitter),Nigeria
+2026-05-14 19:57:18,Eric,Male,keri@gmail.com,+25473,Kenya,Data science and ML,Business man,X (Twitter),Kenya
+2026-05-14 19:58:42,Jephter,Male,jeph@gmail.com,+233 5,Ghana,Data science and ML,Student,X (Twitter),Ghana
+2026-05-14 20:07:11,Unyimeabasi,Male,mcla@gmail.com,+234-8,Nigeria,Financial Analytics,Self employed,X (Twitter),Nigeria
+2026-05-14 20:08:45,Olanipekun,Male,Basi@gmail.com,+23481,Nigeria,Data science and ML,Unemployed,X (Twitter),Nigeria
+2026-05-14 20:10:36,ITESHI,Male,Samd@gmail.com,+234 9,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-14 20:11:06,Busari,Male,owos@gmail.com,+23491,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-14 20:15:25,Sindisiwe,Female,siem@gmail.com,+26377,Zimbabwe,Healthcare Data Analytics,Event Planner,X (Twitter),Zimbabwe
+2026-05-14 20:23:06,Itohomfonma,Male,ekop@gmail.com,91101,Nigeria,Sales and Marketing Analytics,Marketing,X (Twitter),Nigeria
+2026-05-14 20:25:03,Rufus,Male,chri@gmail.com,+23354,Ghana,Data science and ML,Nursing,X (Twitter),Ghana
+2026-05-14 20:26:49,Bright,Male,Ukab@gmail.com,90288,Nigeria,Financial Analytics,Administrative Assistant,X (Twitter),Nigeria
+2026-05-14 20:27:44,Afolabi,Male,mmze@gmail.com,+234,Nigeria,Data science and ML,Data analyst,X (Twitter),Nigeria
+2026-05-14 20:32:00,Joan,Female,joan@gmail.com,+27846,South Africa,Data science and ML,Media Data Analyst,X (Twitter),South Africa
+2026-05-14 20:39:19,Duncan,Male,kale@gmail.com,+25670,Uganda,Data science and ML,Statistician,X (Twitter),Uganda
+2026-05-14 20:39:41,Eddy,Male,eddy@gmail.com,141572,United States,Healthcare Data Analytics,PORTER,X (Twitter),United States
+2026-05-14 20:39:51,Robert,Male,jill@gmail.com,+25472,Kenya,Data science and ML,Resource Mobilisation officer,X (Twitter),Kenya
+2026-05-14 20:45:19,Atubi,Male,tubi@gmail.com,+23480,Nigeria,Supply Chain Analytics,Entrepreneur / Crypto trader,X (Twitter),Nigeria
+2026-05-14 21:02:53,Aleshinloye,Male,adeo@gmail.com,+23481,Nigeria,Supply Chain Analytics,Procurement Manager,WhatsApp Community,Nigeria
+2026-05-14 21:11:29,Ugbor,Male,ugbo@gmail.com,90454,Nigeria,Sales and Marketing Analytics,Graduated,X (Twitter),Nigeria
+2026-05-14 21:20:58,Solomon,Male,solo@gmail.com,+23470,Nigeria,Sales and Marketing Analytics,Fashion designer,X (Twitter),Nigeria
+2026-05-14 21:27:52,Ayodeji,Male,ayod@gmail.com,+23470,Nigeria,Data science and ML,Financial analyst,X (Twitter),Nigeria
+2026-05-14 21:30:40,Mohamed,Male,medc@gmail.com,+23279,Sierra Leone,Data science and ML,Banker,X (Twitter),Sierra Leone
+2026-05-14 21:38:38,Joseph,Male,Jose@gmail.com,0901 4,Nigeria,Data science and ML,Sommelier,X (Twitter),Nigeria
+2026-05-14 21:39:50,Abdulrheem,Male,omat@gmail.com,80747,Nigeria,Healthcare Data Analytics,Travel agent,X (Twitter),Nigeria
+2026-05-14 21:54:20,OSAZUWA,Male,Vict@gmail.com,+23481,NIGERIA,Supply Chain Analytics,ENTREPRENEUR,X (Twitter),Nigeria
+2026-05-14 22:44:26,Abdulmumin,Male,Osho@gmail.com,+23481,Nigeria,Data science and ML,Technical Pre-sales Consultant,X (Twitter),Nigeria
+2026-05-14 22:46:57,Manish,Male,mp26@gmail.com,+91600,India,Sales and Marketing Analytics,Teacher,X (Twitter),India
+2026-05-14 22:56:43,Abdraheem,Male,the.@gmail.com,81253,Nigeria,Data science and ML,Customer Support Specialist,X (Twitter),Nigeria
+2026-05-14 23:06:31,Daniel,Male,heli@gmail.com,+23470,NG,Data science and ML,IT Specialist,Linkedin,Nigeria
+2026-05-14 23:16:39,Mba,Male,vale@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-14 23:38:03,Hellen,Female,Keke@gmail.com,+23350,Ghana,Sales and Marketing Analytics,HR Officer,X (Twitter),Ghana
+2026-05-15 00:16:32,Olamiji,Male,Olam@gmail.com,81615,Nigeria,Data science and ML,Cybersecurity experts,X (Twitter),Nigeria
+2026-05-15 01:50:55,Michael,Male,mike@gmail.com,+23470,Nigeria,Healthcare Data Analytics,Data Officer,X (Twitter),Nigeria
+2026-05-15 02:46:45,Tazita,Female,emil@gmail.com,+25676,Uganda,Data science and ML,Advocate,X (Twitter),Uganda
+2026-05-15 03:00:30,Abdulrasheed,Male,rash@gmail.com,+23490,Nigeria,Sales and Marketing Analytics,Banking,Facebook,Nigeria
+2026-05-15 03:17:04,Benjamin,Male,owus@gmail.com,+23359,Ghana,Healthcare Data Analytics,Student,X (Twitter),Ghana
+2026-05-15 03:53:57,Nathan,Male,nath@gmail.com,+23481,Nigeria,Healthcare Data Analytics,Entrepreneur,X (Twitter),Nigeria
+2026-05-15 05:11:29,Brian,Male,bria@gmail.com,254720,Kenya,Data science and ML,IT,X (Twitter),Kenya
+2026-05-15 05:38:38,Ezekiel,Male,ezek@gmail.com,+23480,Nigeria,Data science and ML,Data Administrator,X (Twitter),Nigeria
+2026-05-15 05:42:49,Andre,Male,ison@gmail.com,+23480,Nigeria,Financial Analytics,Student,X (Twitter),Nigeria
+2026-05-15 05:49:35,Peter,Male,Elia@gmail.com,+256 7,Uganda,Healthcare Data Analytics,Data analyst,X (Twitter),Uganda
+2026-05-15 06:43:30,Christopher,Male,chri@gmail.com,+23481,Nigeria,Data science and ML,Military,X (Twitter),Nigeria
+2026-05-15 06:56:52,Samuel,Male,samo@gmail.com,+25472,kenya,Financial Analytics,Cost controller,X (Twitter),Kenya
+2026-05-15 07:14:04,Charles,Male,okel@gmail.com,+25670,Uganda,Data science and ML,Mechanic,X (Twitter),Uganda
+2026-05-15 07:16:44,Doreen,Female,Kabu@gmail.com,254111,Kenya,Healthcare Data Analytics,NURSE,X (Twitter),Kenya
+2026-05-15 07:23:06,Abaho,Male,abah@gmail.com,+25678,Uganda,Data science and ML,Lawyer,X (Twitter),Uganda
+2026-05-15 07:45:08,John,Male,john@gmail.com,+23480,Nigeria,Supply Chain Analytics,Digital Factory Specialist,Referral,Nigeria
+2026-05-15 08:34:30,Onovo,Female,onov@gmail.com,+23481,Nigeria,Healthcare Data Analytics,Medical laboratory scientist (corp member),X (Twitter),Nigeria
+2026-05-15 08:41:25,James,Male,Jame@gmail.com,+25479,Kenya,Data science and ML,Freelancer,X (Twitter),Kenya
+2026-05-15 08:41:55,Ibrahim,Male,ibra@gmail.com,+23480,Nigeria,Healthcare Data Analytics,Lecturing,X (Twitter),Nigeria
+2026-05-15 08:52:18,Afeez,Male,afee@gmail.com,+23480,Nigeria,Healthcare Data Analytics,Unemployed,X (Twitter),Nigeria
+2026-05-15 09:34:07,HAMMED,Male,Ibna@gmail.com,+23490,NIGERIA L,Financial Analytics,STUDENT,X (Twitter),Nigeria
+2026-05-15 09:37:46,Abdulfatai,Male,olam@gmail.com,+23491,Nigeria,Financial Analytics,Manager,X (Twitter),Nigeria
+2026-05-15 09:45:30,Samuel,Male,same@gmail.com,+25194,Kenya,Data science and ML,Student,X (Twitter),Kenya
+2026-05-15 09:48:57,Uthman,Male,Olas@gmail.com,+23470,Nigeria,Data science and ML,Unemployed,X (Twitter),Nigeria
+2026-05-15 10:04:15,Erastus,Male,kamu@gmail.com,+26481,Namibia,Sales and Marketing Analytics,Maritime officer,X (Twitter),Namibia
+2026-05-15 10:08:10,Jacob,Male,jack@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,self employed,X (Twitter),Nigeria
+2026-05-15 10:48:48,Chiemela,Female,asum@gmail.com,+23491,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-15 11:01:21,Kehbila,Male,babi@gmail.com,+23769,Cameroon,Financial Analytics,Student,X (Twitter),Cameroon
+2026-05-15 11:25:17,Faith,Female,Fait@gmail.com,+25470,Kenya,Healthcare Data Analytics,Project manager,X (Twitter),Kenya
+2026-05-15 12:55:03,Gold,Male,gold@gmail.com,+23480,Nigeria,Sales and Marketing Analytics,No,X (Twitter),Nigeria
+2026-05-15 13:04:39,Mary,Female,mimi@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,Self employed,X (Twitter),Nigeria
+2026-05-15 14:16:26,Nelson,Male,mbao@gmail.com,+23470,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-15 14:52:06,Babatunde,Male,baba@gmail.com,+23470,Nigeria,AI Automation,Enterpreneur,X (Twitter),Nigeria
+2026-05-15 16:07:37,Joshua,Male,dami@gmail.com,+23481,Nigeria,Data science and ML,Student,X (Twitter),Nigeria
+2026-05-15 17:57:24,Dagim,Male,dagi@gmail.com,+25191,Ethiopia,Healthcare Data Analytics,Doctor,X (Twitter),Ethiopia
+2026-05-15 18:06:41,ADEOTI,Male,olay@gmail.com,+23470,Nigeria,Sales and Marketing Analytics,Delivery,X (Twitter),Nigeria
+2026-05-15 18:26:22,Peter,Male,okpo@gmail.com,+23481,Nigeria,Financial Analytics,Accounting,X (Twitter),Nigeria
+2026-05-15 18:34:32,Stephen,Male,awez@gmail.com,+23480,Nigeria,Data science and ML,Mechanical Engineer,X (Twitter),Nigeria
+2026-05-15 18:38:19,Imoleayo,Female,olaw@gmail.com,81309,Nigeria,Sales and Marketing Analytics,Relationship manager,X (Twitter),Nigeria
+2026-05-15 19:15:08,Gafar,Male,gaph@gmail.com,234 81,Nigeria,Data science and ML,Civil service,X (Twitter),Nigeria
+2026-05-15 20:55:47,Hauwa,Female,adam@gmail.com,+23481,Nigeria,AI Automation,Student,X (Twitter),Nigeria
+2026-05-16 03:57:54,Biodun,Male,oshi@gmail.com,+23480,Nigeria,Supply Chain Analytics,Real estate,X (Twitter),Nigeria
+2026-05-16 07:12:26,OLUKOYA,Male,Oluk@gmail.com,+23480,Nigeria,AI Automation,Student,X (Twitter),Nigeria
+2026-05-16 08:21:39,Ubaga,Male,theu@gmail.com,+23470,Nigeria,Data science and ML,Educator,X (Twitter),Nigeria
+2026-05-16 08:23:29,Akinfenwa,Male,akin@gmail.com,+23490,Nigeria,Financial Analytics,Real Estate Agent,X (Twitter),Nigeria
+2026-05-16 11:44:15,Precious,Female,Prec@gmail.com,+23490,Nigeria,Financial Analytics,Intern,X (Twitter),Nigeria
+2026-05-16 12:11:32,Ugwuagbo,Female,ugwu@gmail.com,+23470,Nigeria,Data science and ML,Sales/ customer Experience,X (Twitter),Nigeria
+2026-05-20 14:03:08,Bethuel,Male,benb@gmail.com,906643,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-20 14:09:41,Adebola,Male,b.ad@gmail.com,80651,Nigeria,Data science and ML,Security Manager,X (Twitter),Nigeria
+2026-05-21 20:49:50,Tshegofatso,Female,tshe@gmail.com,+27834,South Africa,Healthcare Data Analytics,Regional Administrate,X (Twitter),South Africa
+2026-05-21 21:05:44,OKE,Female,oker@gmail.com,80793,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-21 21:10:00,OKE,Female,oker@gmail.com,+23480,Nigeria,Sales and Marketing Analytics,Student,X (Twitter),Nigeria
+2026-05-22 06:16:59,Timothy,Male,nand@gmail.com,+25479,Kebya,Data science and ML,Software developer,WhatsApp Community,Kenya
+2026-05-23 16:32:54,Benedict,Male,nedi@gmail.com,+25470,Kenya,AI Automation,Dentist,X (Twitter),Kenya
+2026-05-28 17:26:35,Penoshili,Female,nghi@gmail.com,+26408,Namibia,Data science and ML,Student,Referral,Namibia
+2026-05-28 17:54:05,Akinloye,Male,akin@gmail.com,+23481,+2348133105464,Data science and ML,student,X (Twitter),Invalid Entry
+2026-05-28 18:36:22,James,Male,jame@gmail.com,+25474,Kenya,Sales and Marketing Analytics,Kenya,X (Twitter),Kenya
+2026-05-28 19:43:59,Jorge,Male,jorg@gmail.com,+23480,Nigeria,Sales and Marketing Analytics,Freelancer,X (Twitter),Nigeria
+2026-05-28 20:31:18,Caroline,Female,caro@gmail.com,+27823,South Africa,Data science and ML,Risk and Compliance,X (Twitter),South Africa
+2026-05-28 22:21:10,Oghuma,Female,ono.@gmail.com,90549,Nigeria,Healthcare Data Analytics,Nil,X (Twitter),Nigeria
+2026-05-28 23:04:09,Odanye,Male,odan@gmail.com,+23490,Nigeria,Data science and ML,Graduate,X (Twitter),Nigeria
+2026-05-28 23:04:30,Marley,Male,marl@gmail.com,+44798,UK,Data science and ML,Quality officer,Linkedin,United Kingdom
+2026-05-29 00:48:49,Asogba,Male,Holl@gmail.com,+23481,Nigeria,Sales and Marketing Analytics,Unemployed,X (Twitter),Nigeria
+2026-05-29 01:58:39,Genesis,Female,Gene@gmail.com,951419,United states,AI Automation,,X (Twitter),United States
+2026-05-29 07:21:46,Nwachi,Male,dabi@gmail.com,+23470,Nigeria,Data science and ML,Software dev,X (Twitter),Nigeria
+2026-05-29 07:44:43,Adesuntola,Male,iade@gmail.com,+23470,Nigeria,Data science and ML,Unemployed,X (Twitter),Nigeria
+2026-05-29 08:14:14,Umar,Male,Chak@gmail.com,+23480,Nigeria,AI Automation,Economist,X (Twitter),Nigeria
+2026-05-30 23:46:36,Godknows,Female,godk@gmail.com,+26481,Nam,Data science and ML,Student,Linkedin,Namibia
+2026-06-01 19:00:49,Kolawole,Male,opey@gmail.com,+23481,Nigeria,Financial Analytics,Quality Analyst,X (Twitter),Nigeria
+2026-06-01 22:08:05,Hassan,Male,huss@gmail.com,+23470,Nigeria,Sales and Marketing Analytics,Student,Linkedin,Nigeria
+2026-06-03 13:21:08,Richmond,Male,Buka@gmail.com,+233 5,Ghana,Financial Analytics,Student,Linkedin,Ghana
+2026-06-04 05:33:32,Oladipo,Female,Ebun@gmail.com,+23480,Nigeria,Healthcare Data Analytics,Medical Student,Linkedin,Nigeria
