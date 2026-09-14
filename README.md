@@ -25,6 +25,7 @@ Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook (VS Code)
 
 ## Project Structure
 
+```
 zth-ad-budget-analysis/
 ├── data/
 │   ├── raw/
@@ -33,6 +34,7 @@ zth-ad-budget-analysis/
 ├── outputs/
 ├── README.md
 └── requirements.txt
+```
 
 
 ## How to Run
