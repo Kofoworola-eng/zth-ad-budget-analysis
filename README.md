@@ -1,8 +1,7 @@
 # Zion Tech Hub: Ad Budget & Growth Analysis
 
 ## Overview
-
-This project analyzes real registration data from two cohorts of Zion Tech Hub's Sales, Marketing and Supply Chain Analytics Program, submitted as part of the Zion Tech Hub Data Challenge.
+This project analyzes real registration data from two cohorts (Cohort 9 and Cohort 10) of Zion Tech Hub's training program, covering courses including Data Science and AI, Healthcare Data Analytics, Financial Analytics, and Sales and Marketing Analytics, submitted as part of the Zion Tech Hub Data Challenge.
 
 Unlike a typical portfolio project built on a pre-cleaned Kaggle dataset, this analysis works with actual sign up form exports pulled directly from a live business. The data reflects everything that comes with real world collection: inconsistent phone number formats, free text country entries, a missing occupation field in one cohort, duplicate entries, and messy timestamps. None of it was cleaned or prepared in advance. Part of the work here was deciding, and documenting, what counted as noise versus signal.
 
