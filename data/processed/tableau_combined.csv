@@ -1,0 +1,1273 @@
+Timestamp,Channel,Course,Country,Gender,Cohort,Is_Spike_Event,Registration_Date,Day_of_Week,Month
+2025-11-06 10:49:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-06,Thursday,November
+2025-11-07 21:16:00,Referral,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-07,Friday,November
+2025-11-10 09:45:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 10:00:00,LinkedIn,Data Science and AI,Botswana,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 10:11:00,LinkedIn,Data Science and AI,South Africa,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 10:48:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 11:02:00,LinkedIn,Data Science and AI,Zimbabwe,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:03:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:16:00,LinkedIn,Financial Analytics,South Africa,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:18:00,LinkedIn,Data Science and AI,South Africa,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:19:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:30:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:37:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:45:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:52:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:55:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:57:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 12:57:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 13:00:00,LinkedIn,Financial Analytics,Zimbabwe,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 13:12:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 13:13:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 13:32:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 13:49:00,LinkedIn,Financial Analytics,Zimbabwe,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 13:52:00,LinkedIn,Data Science and AI,United Kingdom,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:10:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:26:00,WhatsApp,Financial Analytics,Zimbabwe,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:31:00,LinkedIn,Sales and Marketing Analytics,Uganda,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:35:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:41:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:54:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 14:54:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 15:05:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 15:13:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 15:23:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 15:36:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 15:37:00,LinkedIn,Data Science and AI,Malawi,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 15:52:00,LinkedIn,Sales and Marketing Analytics,Ethiopia,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 16:05:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 16:14:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 16:30:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 16:40:00,WhatsApp,Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 16:45:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 17:23:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 17:32:00,LinkedIn,Financial Analytics,Ghana,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 17:43:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 17:57:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 18:14:00,X (Twitter),Financial Analytics,Ambiguous,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 18:22:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 18:32:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 18:32:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 18:47:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 19:00:00,LinkedIn,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 19:18:00,LinkedIn,Data Science and AI,Malawi,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 19:41:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 19:51:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 19:59:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 20:02:00,X (Twitter),Healthcare Data Analytics,Ambiguous,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 20:23:00,WhatsApp,Data Science and AI,Tanzania,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 20:33:00,WhatsApp,Data Science and AI,Zimbabwe,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 20:38:00,WhatsApp,Financial Analytics,Tanzania,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 20:51:00,WhatsApp,Data Science and AI,Zimbabwe,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 21:00:00,WhatsApp,Data Science and AI,Tanzania,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 21:28:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 21:32:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 21:44:00,X (Twitter),Data Science and AI,Canada,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 22:06:00,LinkedIn,Healthcare Data Analytics,Cameroon,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 22:33:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 22:55:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 23:07:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-10 23:10:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-10,Monday,November
+2025-11-11 00:42:00,LinkedIn,Data Science and AI,Cameroon,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 03:04:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 03:28:00,X (Twitter),Data Science and AI,Jamaica,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 04:55:00,WhatsApp,Healthcare Data Analytics,Tanzania,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 06:16:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 06:18:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 07:04:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 07:10:00,WhatsApp,Financial Analytics,Tanzania,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 07:39:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 07:52:00,LinkedIn,Data Science and AI,Zimbabwe,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 07:54:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 08:00:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 08:01:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 08:41:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 08:46:00,LinkedIn,Financial Analytics,Ethiopia,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 09:49:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 09:49:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 09:52:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 10:08:00,LinkedIn,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 12:11:00,WhatsApp,Data Science and AI,Tanzania,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 12:38:00,LinkedIn,Data Science and AI,United States,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 14:10:00,LinkedIn,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 14:29:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 14:42:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 14:49:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 16:02:00,LinkedIn,Healthcare Data Analytics,Zimbabwe,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 17:42:00,LinkedIn,Data Science and AI,Zimbabwe,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 19:08:00,LinkedIn,Healthcare Data Analytics,Canada,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 20:11:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 20:29:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 20:59:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 22:28:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-11 22:56:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-11,Tuesday,November
+2025-11-12 01:19:00,LinkedIn,Data Science and AI,Canada,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 08:53:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:26:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:27:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:27:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:27:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:30:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:31:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:32:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:33:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:46:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 10:47:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:12:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:12:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:21:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:22:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:30:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:57:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:59:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 11:59:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 12:09:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 12:12:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 12:47:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 12:48:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 13:03:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 13:07:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 13:33:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 14:07:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 14:09:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 14:20:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 14:51:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:17:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:41:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:41:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:42:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:42:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:43:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:44:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:45:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:46:00,Facebook,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:48:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:51:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:56:00,Facebook,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 15:57:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:07:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:11:00,LinkedIn,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:13:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:13:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:18:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:19:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:24:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:30:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:31:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:42:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:48:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:49:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 16:52:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:01:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:01:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:01:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:06:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:16:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:19:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 17:31:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:02:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:03:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:25:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:27:00,LinkedIn,Data Science and AI,Canada,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:28:00,Referral,Healthcare Data Analytics,Nigeria,Prefer not to say,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:37:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:43:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:44:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:44:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 18:47:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 19:10:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 19:40:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 19:52:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 19:56:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 19:56:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 20:00:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 20:16:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 20:31:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 20:35:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 20:47:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 21:08:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 21:11:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 21:25:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 21:30:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 21:42:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 21:43:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 22:25:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 22:45:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 23:15:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 23:22:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 23:26:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-12 23:36:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-12,Wednesday,November
+2025-11-13 00:54:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 01:12:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 02:50:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 05:24:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 05:51:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 06:31:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 06:37:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 06:40:00,Referral,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 06:50:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 06:56:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 07:19:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 07:30:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 07:31:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 08:12:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 08:21:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 08:24:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 08:44:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 09:30:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 09:55:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 10:36:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 12:20:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 12:45:00,LinkedIn,Sales and Marketing Analytics,Ghana,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 13:28:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 13:43:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 15:39:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 15:49:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 15:52:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 17:44:00,LinkedIn,Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 18:54:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 18:54:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 19:49:00,LinkedIn,Data Science and AI,Somalia,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-13 23:28:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-13,Thursday,November
+2025-11-14 07:20:00,Referral,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 07:26:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 12:12:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 12:38:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 12:54:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 13:07:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 14:35:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 14:36:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 20:28:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 21:11:00,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 22:12:00,Facebook,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-14 23:23:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-14,Friday,November
+2025-11-15 01:38:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 04:24:00,LinkedIn,Financial Analytics,Zimbabwe,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 08:01:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 08:47:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 09:49:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 13:49:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 14:05:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 14:24:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 14:59:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 15:18:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 17:16:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 17:54:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 17:55:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 19:09:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 19:32:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 20:11:00,LinkedIn,Healthcare Data Analytics,Ethiopia,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 20:41:00,Referral,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 20:42:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 20:59:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 21:06:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-15 22:49:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-15,Saturday,November
+2025-11-16 03:13:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-16,Sunday,November
+2025-11-16 14:00:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-16,Sunday,November
+2025-11-16 14:32:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-16,Sunday,November
+2025-11-16 15:25:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-16,Sunday,November
+2025-11-16 18:59:00,Referral,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-16,Sunday,November
+2025-11-16 20:29:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-16,Sunday,November
+2025-11-17 11:47:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 12:16:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 13:00:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 15:48:00,X (Twitter),Data Science and AI,Zimbabwe,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 17:19:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 17:40:00,X (Twitter),Sales and Marketing Analytics,South Africa,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 18:44:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 19:27:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 19:33:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 19:35:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 19:59:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 20:07:00,WhatsApp,Financial Analytics,South Africa,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 20:11:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 20:29:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 20:51:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 20:52:00,X (Twitter),Sales and Marketing Analytics,South Sudan,Male,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 21:09:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 22:33:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 22:56:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-17 23:58:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-17,Monday,November
+2025-11-18 00:28:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 00:50:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 02:00:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 02:58:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 08:44:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 09:48:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 11:55:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 12:03:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 13:00:00,WhatsApp,Healthcare Data Analytics,United Kingdom,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 14:52:00,Referral,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 16:31:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 17:16:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-18 17:23:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-18,Tuesday,November
+2025-11-19 01:50:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 02:24:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 05:27:00,Instagram,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 09:14:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 09:35:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 13:04:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 13:57:00,Referral,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 14:32:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-19 17:30:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-19,Wednesday,November
+2025-11-20 05:26:00,X (Twitter),Healthcare Data Analytics,Somalia,Male,Cohort 9,False,2025-11-20,Thursday,November
+2025-11-20 10:43:00,LinkedIn,Data Science and AI,Rwanda,Male,Cohort 9,False,2025-11-20,Thursday,November
+2025-11-20 11:16:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-20,Thursday,November
+2025-11-20 15:18:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-20,Thursday,November
+2025-11-20 15:26:00,X (Twitter),Financial Analytics,India,Male,Cohort 9,False,2025-11-20,Thursday,November
+2025-11-20 18:14:00,X (Twitter),Sales and Marketing Analytics,Canada,Male,Cohort 9,False,2025-11-20,Thursday,November
+2025-11-21 01:57:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-21,Friday,November
+2025-11-21 14:21:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-21,Friday,November
+2025-11-21 14:29:00,WhatsApp,Data Science and AI,United Kingdom,Prefer not to say,Cohort 9,False,2025-11-21,Friday,November
+2025-11-22 10:37:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-22,Saturday,November
+2025-11-22 16:20:00,LinkedIn,Healthcare Data Analytics,Ethiopia,Female,Cohort 9,False,2025-11-22,Saturday,November
+2025-11-23 22:11:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-23,Sunday,November
+2025-11-24 11:27:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 12:31:00,X (Twitter),Financial Analytics,South Africa,Female,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 13:01:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 13:02:00,X (Twitter),Healthcare Data Analytics,South Africa,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 13:58:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 14:00:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 14:41:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 15:09:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 15:28:00,X (Twitter),Data Science and AI,China,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 15:29:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:01:00,X (Twitter),Healthcare Data Analytics,United Kingdom,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:14:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:16:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:22:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:28:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:34:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 16:36:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 17:24:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 17:40:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 17:43:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 18:18:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 18:21:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 18:45:00,X (Twitter),Data Science and AI,United Kingdom,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 18:51:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 19:08:00,X (Twitter),Healthcare Data Analytics,India,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 19:09:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 19:19:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 19:31:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 19:47:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 20:11:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 20:40:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 20:54:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 21:49:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-24,Monday,November
+2025-11-24 23:25:00,X (Twitter),Sales and Marketing Analytics,Mozambique,Male,Cohort 9,False,2025-11-24,Monday,November
+2025-11-25 00:01:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 01:28:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 03:55:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 05:31:00,LinkedIn,Data Science and AI,United States,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 06:19:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 06:47:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 06:49:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 07:30:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 07:48:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 08:04:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 08:08:00,X (Twitter),Sales and Marketing Analytics,Zimbabwe,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 10:58:00,X (Twitter),Data Science and AI,Rwanda,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 11:15:00,WhatsApp,Data Science and AI,Ghana,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 11:17:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 11:29:00,Referral,Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 12:10:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 13:06:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 13:29:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 13:34:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 14:33:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 16:45:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 17:10:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 19:38:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 20:06:00,LinkedIn,Data Science and AI,Uganda,Male,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-25 23:28:00,Referral,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-25,Tuesday,November
+2025-11-26 04:27:00,LinkedIn,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-26 08:58:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-26 11:03:00,X (Twitter),Healthcare Data Analytics,Ambiguous,Male,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-26 11:59:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-26 15:56:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-26 18:46:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-26 20:33:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-26,Wednesday,November
+2025-11-27 10:10:00,LinkedIn,Data Science and AI,Zimbabwe,Female,Cohort 9,False,2025-11-27,Thursday,November
+2025-11-27 12:59:00,X (Twitter),Data Science and AI,Nigeria,Prefer not to say,Cohort 9,False,2025-11-27,Thursday,November
+2025-11-27 12:59:00,LinkedIn,Financial Analytics,Nigeria,Male,Cohort 9,False,2025-11-27,Thursday,November
+2025-11-28 20:38:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-28,Friday,November
+2025-11-29 07:47:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 08:23:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 08:38:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 09:44:00,LinkedIn,Healthcare Data Analytics,Uganda,Female,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 11:43:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 13:49:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 21:49:00,LinkedIn,Sales and Marketing Analytics,Ghana,Male,Cohort 9,False,2025-11-29,Saturday,November
+2025-11-29 22:56:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-11-29,Saturday,November
+2025-12-01 12:17:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-01,Monday,December
+2025-12-01 18:45:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-01,Monday,December
+2025-12-02 07:14:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-02 10:20:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-02 11:00:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-02 14:43:00,LinkedIn,Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-02 22:27:00,Referral,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-02 22:46:00,LinkedIn,Data Science and AI,Malawi,Male,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-02 23:45:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-12-02,Tuesday,December
+2025-12-03 12:29:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-12-03,Wednesday,December
+2025-12-03 14:27:00,LinkedIn,Healthcare Data Analytics,Gambia,Female,Cohort 9,False,2025-12-03,Wednesday,December
+2025-12-03 14:27:00,WhatsApp,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-03,Wednesday,December
+2025-12-04 00:58:00,LinkedIn,Healthcare Data Analytics,Benin,Male,Cohort 9,False,2025-12-04,Thursday,December
+2025-12-04 11:45:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-04,Thursday,December
+2025-12-04 15:43:00,LinkedIn,Healthcare Data Analytics,Cameroon,Female,Cohort 9,False,2025-12-04,Thursday,December
+2025-12-04 17:49:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-12-04,Thursday,December
+2025-12-04 19:50:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-04,Thursday,December
+2025-12-05 06:16:00,LinkedIn,Data Science and AI,Ghana,Male,Cohort 9,False,2025-12-05,Friday,December
+2025-12-05 06:49:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-05,Friday,December
+2025-12-05 12:15:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,False,2025-12-05,Friday,December
+2025-12-05 12:55:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,False,2025-12-05,Friday,December
+2025-12-05 13:10:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-05,Friday,December
+2025-12-06 13:00:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-12-06,Saturday,December
+2025-12-07 05:46:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-12-07,Sunday,December
+2025-12-07 10:04:00,LinkedIn,Sales and Marketing Analytics,South Africa,Female,Cohort 9,False,2025-12-07,Sunday,December
+2025-12-08 14:32:00,Instagram,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-08,Monday,December
+2025-12-09 07:02:00,LinkedIn,Healthcare Data Analytics,Malawi,Male,Cohort 9,False,2025-12-09,Tuesday,December
+2025-12-09 13:21:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-09,Tuesday,December
+2025-12-09 13:41:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-09,Tuesday,December
+2025-12-09 14:58:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-09,Tuesday,December
+2025-12-09 15:14:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-09,Tuesday,December
+2025-12-09 20:55:00,LinkedIn,Sales and Marketing Analytics,Malawi,Male,Cohort 9,False,2025-12-09,Tuesday,December
+2025-12-10 03:48:00,X (Twitter),Financial Analytics,United Kingdom,Male,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-10 06:46:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-10 13:17:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-10 15:13:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-10 17:24:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-10 19:11:00,LinkedIn,Financial Analytics,Ghana,Male,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-10 19:23:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-10,Wednesday,December
+2025-12-11 16:33:00,LinkedIn,Data Science and AI,Kenya,Female,Cohort 9,False,2025-12-11,Thursday,December
+2025-12-13 22:15:00,LinkedIn,Data Science and AI,Kenya,Male,Cohort 9,False,2025-12-13,Saturday,December
+2025-12-13 22:50:00,LinkedIn,Data Science and AI,Kenya,Male,Cohort 9,False,2025-12-13,Saturday,December
+2025-12-14 08:19:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-14,Sunday,December
+2025-12-14 09:31:00,WhatsApp,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-14,Sunday,December
+2025-12-15 01:34:00,LinkedIn,Data Science and AI,Senegal,Male,Cohort 9,False,2025-12-15,Monday,December
+2025-12-15 11:19:00,LinkedIn,Data Science and AI,Uganda,Male,Cohort 9,False,2025-12-15,Monday,December
+2025-12-15 14:52:00,LinkedIn,Data Science and AI,South Sudan,Male,Cohort 9,False,2025-12-15,Monday,December
+2025-12-16 06:43:00,LinkedIn,Data Science and AI,Malawi,Male,Cohort 9,False,2025-12-16,Tuesday,December
+2025-12-16 12:29:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-12-16,Tuesday,December
+2025-12-16 12:33:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,False,2025-12-16,Tuesday,December
+2025-12-16 14:07:00,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 9,False,2025-12-16,Tuesday,December
+2025-12-17 03:55:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-17,Wednesday,December
+2025-12-17 08:24:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-17,Wednesday,December
+2025-12-19 04:36:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-12-19,Friday,December
+2025-12-19 11:24:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-19,Friday,December
+2025-12-22 06:22:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-12-22,Monday,December
+2025-12-22 17:59:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-22,Monday,December
+2025-12-23 11:17:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-23,Tuesday,December
+2025-12-25 00:47:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-25,Thursday,December
+2025-12-26 16:24:00,WhatsApp,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-26,Friday,December
+2025-12-27 08:34:00,Referral,Sales and Marketing Analytics,Canada,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 11:35:00,LinkedIn,Data Science and AI,South Africa,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 12:34:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 13:04:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 13:40:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 14:07:00,X (Twitter),Financial Analytics,Spain,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 14:24:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 15:26:00,LinkedIn,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 18:09:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 18:48:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 19:38:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 19:48:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 21:00:00,WhatsApp,Healthcare Data Analytics,Ghana,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 21:02:00,LinkedIn,Data Science and AI,Namibia,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 21:17:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 23:16:00,LinkedIn,Sales and Marketing Analytics,Ghana,Male,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-27 23:50:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-27,Saturday,December
+2025-12-28 06:07:00,LinkedIn,Healthcare Data Analytics,Zambia,Male,Cohort 9,False,2025-12-28,Sunday,December
+2025-12-28 08:38:00,Referral,Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-28,Sunday,December
+2025-12-28 11:29:00,Referral,Sales and Marketing Analytics,Nigeria,Female,Cohort 9,False,2025-12-28,Sunday,December
+2025-12-28 12:06:00,WhatsApp,Data Science and AI,Namibia,Female,Cohort 9,False,2025-12-28,Sunday,December
+2025-12-28 16:18:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-28,Sunday,December
+2025-12-29 06:37:00,LinkedIn,Data Science and AI,South Africa,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 12:54:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 12:58:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 13:03:00,X (Twitter),Data Science and AI,Ivory Coast,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 13:10:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 13:44:00,X (Twitter),Sales and Marketing Analytics,Zambia,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 13:46:00,Referral,Data Science and AI,Nigeria,Prefer not to say,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 13:48:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 13:59:00,X (Twitter),Healthcare Data Analytics,United Kingdom,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 14:01:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 14:39:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 14:43:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 14:50:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 14:55:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 15:02:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 15:04:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 15:25:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 15:26:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 15:54:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 16:05:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 16:16:00,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 16:27:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 16:41:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:15:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:16:00,Referral,Data Science and AI,Ambiguous,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:25:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:30:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:39:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:40:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 17:50:00,X (Twitter),Healthcare Data Analytics,DR Congo,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 18:02:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 18:06:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 18:06:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 18:26:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 18:27:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 18:32:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 19:42:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 19:50:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 19:50:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 19:51:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 19:55:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 20:11:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 20:24:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 20:26:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 21:18:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 21:18:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 21:25:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 21:43:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 21:51:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 21:55:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 22:40:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 23:19:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 23:31:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 23:35:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 23:35:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-29,Monday,December
+2025-12-29 23:36:00,X (Twitter),Financial Analytics,Ghana,Female,Cohort 9,False,2025-12-29,Monday,December
+2025-12-30 00:02:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 00:15:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 00:23:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 00:41:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 01:05:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 01:09:00,X (Twitter),Healthcare Data Analytics,United Kingdom,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 02:47:00,X (Twitter),Data Science and AI,Peru,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 05:30:00,X (Twitter),Healthcare Data Analytics,United States,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 05:39:00,X (Twitter),Sales and Marketing Analytics,Kenya,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 06:36:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 07:39:00,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 07:43:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 08:20:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 08:20:00,X (Twitter),Financial Analytics,Saudi Arabia,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 08:22:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 08:33:00,X (Twitter),Data Science and AI,Ambiguous,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 08:39:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 09:07:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 09:09:00,Referral,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 09:20:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 10:37:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 10:44:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 10:57:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 11:53:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 12:58:00,LinkedIn,Data Science and AI,Kenya,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 13:02:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 13:03:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 15:20:00,X (Twitter),Data Science and AI,Ghana,Prefer not to say,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 15:53:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 17:06:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 18:59:00,LinkedIn,Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 19:17:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 20:04:00,X (Twitter),Data Science and AI,Uganda,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 20:19:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-30 20:21:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2025-12-30,Tuesday,December
+2025-12-31 01:18:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2025-12-31,Wednesday,December
+2025-12-31 06:21:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2025-12-31,Wednesday,December
+2025-12-31 07:16:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2025-12-31,Wednesday,December
+2026-01-01 16:27:00,LinkedIn,Healthcare Data Analytics,Ghana,Male,Cohort 9,False,2026-01-01,Thursday,January
+2026-01-01 17:24:00,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2026-01-01,Thursday,January
+2026-01-01 19:21:00,X (Twitter),Healthcare Data Analytics,Egypt,Male,Cohort 9,False,2026-01-01,Thursday,January
+2026-01-01 23:01:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-01,Thursday,January
+2026-01-02 17:13:00,Referral,Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-02,Friday,January
+2026-01-02 21:14:00,X (Twitter),Financial Analytics,Ghana,Female,Cohort 9,False,2026-01-02,Friday,January
+2026-01-03 02:35:00,X (Twitter),Healthcare Data Analytics,United States,Male,Cohort 9,False,2026-01-03,Saturday,January
+2026-01-03 23:40:00,X (Twitter),Sales and Marketing Analytics,Ghana,Female,Cohort 9,False,2026-01-03,Saturday,January
+2026-01-04 14:49:00,LinkedIn,Financial Analytics,Kenya,Female,Cohort 9,False,2026-01-04,Sunday,January
+2026-01-04 15:12:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-04,Sunday,January
+2026-01-05 09:54:00,WhatsApp,Healthcare Data Analytics,Kenya,Female,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 11:50:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 13:55:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 14:19:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 16:27:00,WhatsApp,Financial Analytics,Nigeria,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 18:08:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 20:05:00,X (Twitter),Healthcare Data Analytics,Invalid Entry,Female,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 22:15:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 22:33:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-05 22:49:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2026-01-05,Monday,January
+2026-01-06 09:24:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,False,2026-01-06,Tuesday,January
+2026-01-06 12:08:00,WhatsApp,Healthcare Data Analytics,Colombia,Male,Cohort 9,False,2026-01-06,Tuesday,January
+2026-01-06 15:12:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-06,Tuesday,January
+2026-01-07 17:01:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2026-01-07,Wednesday,January
+2026-01-09 11:04:00,LinkedIn,Healthcare Data Analytics,Kenya,Male,Cohort 9,False,2026-01-09,Friday,January
+2026-01-09 12:46:00,LinkedIn,Data Science and AI,Cameroon,Female,Cohort 9,False,2026-01-09,Friday,January
+2026-01-14 04:41:00,X (Twitter),Sales and Marketing Analytics,United Kingdom,Male,Cohort 9,False,2026-01-14,Wednesday,January
+2026-01-14 10:12:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,False,2026-01-14,Wednesday,January
+2026-01-16 12:45:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,False,2026-01-16,Friday,January
+2026-01-22 15:31:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 15:43:00,X (Twitter),Financial Analytics,India,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 15:46:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 15:50:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 16:05:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 16:10:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 16:36:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 16:57:00,X (Twitter),Healthcare Data Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 16:59:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 16:59:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:07:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:15:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:15:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:20:00,WhatsApp,Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:22:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:26:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:27:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:35:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:37:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:40:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:44:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:44:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 17:54:00,X (Twitter),Sales and Marketing Analytics,India,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:00:00,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:03:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:09:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:14:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:30:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:32:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:32:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:33:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:35:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:35:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:36:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:38:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:41:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:42:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:44:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:49:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:50:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:52:00,X (Twitter),Healthcare Data Analytics,Cameroon,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:56:00,X (Twitter),Sales and Marketing Analytics,Kenya,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:56:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:57:00,X (Twitter),Financial Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:57:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:58:00,WhatsApp,Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 18:59:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:01:00,X (Twitter),Data Science and AI,Nigeria,Prefer not to say,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:01:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:01:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:02:00,X (Twitter),Healthcare Data Analytics,Uganda,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:04:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:05:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:08:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:08:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:08:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:09:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:09:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:09:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:09:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:10:00,LinkedIn,Data Science and AI,United States,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:11:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:11:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:12:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:12:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:13:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:14:00,X (Twitter),Data Science and AI,Zimbabwe,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:14:00,Referral,Financial Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:14:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:17:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:18:00,X (Twitter),Sales and Marketing Analytics,United States,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:21:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:25:00,Instagram,Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:25:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:29:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:30:00,X (Twitter),Financial Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:30:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:31:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:31:00,X (Twitter),Sales and Marketing Analytics,Canada,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:32:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:32:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:33:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:35:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:35:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:39:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:40:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:40:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:41:00,X (Twitter),Sales and Marketing Analytics,Ghana,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:41:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:43:00,Referral,Sales and Marketing Analytics,Ghana,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:43:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:44:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:45:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:45:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:47:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:51:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:52:00,X (Twitter),Financial Analytics,United States,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:53:00,X (Twitter),Sales and Marketing Analytics,Netherlands,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:53:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:55:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:57:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:57:00,X (Twitter),Sales and Marketing Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 19:58:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:00:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:00:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:02:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:02:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:03:00,WhatsApp,Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:04:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:04:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:06:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:06:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:07:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:07:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:09:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:09:00,X (Twitter),Data Science and AI,Germany,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:10:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:10:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:11:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:13:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:14:00,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:14:00,X (Twitter),Healthcare Data Analytics,Ghana,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:15:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:16:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:17:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:19:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:19:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:20:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:20:00,X (Twitter),Financial Analytics,Rwanda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:20:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:21:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:23:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:24:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:24:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:24:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:25:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:26:00,X (Twitter),Healthcare Data Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:26:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:26:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:26:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:28:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:28:00,X (Twitter),Data Science and AI,South Africa,Prefer not to say,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:28:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:29:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:31:00,Referral,Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:32:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:33:00,X (Twitter),Sales and Marketing Analytics,Ambiguous,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:33:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:35:00,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:36:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:37:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:37:00,X (Twitter),Sales and Marketing Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:40:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:42:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:44:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:44:00,X (Twitter),Financial Analytics,Zambia,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:49:00,X (Twitter),Healthcare Data Analytics,United Kingdom,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:50:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:51:00,Facebook,Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:53:00,X (Twitter),Financial Analytics,South Africa,Prefer not to say,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:56:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:56:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:58:00,X (Twitter),Data Science and AI,Ambiguous,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:58:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:59:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:59:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 20:59:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:02:00,X (Twitter),Financial Analytics,Sierra Leone,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:02:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:03:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:03:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:03:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:04:00,X (Twitter),Data Science and AI,Zimbabwe,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:04:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:06:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:07:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:07:00,X (Twitter),Healthcare Data Analytics,India,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:07:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:09:00,X (Twitter),Data Science and AI,Canada,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:10:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:10:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:12:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:13:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:13:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:13:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:13:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:13:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:17:00,X (Twitter),Healthcare Data Analytics,United States,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:17:00,X (Twitter),Sales and Marketing Analytics,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:18:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:21:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:22:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:23:00,Instagram,Data Science and AI,Botswana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:23:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:25:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:27:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:28:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:28:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:28:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:28:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:29:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:29:00,Referral,Sales and Marketing Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:29:00,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:29:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:30:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:31:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:32:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:34:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:39:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:41:00,X (Twitter),Data Science and AI,United Kingdom,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:44:00,X (Twitter),Financial Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:47:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:54:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:56:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:56:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:58:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 21:59:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:01:00,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:01:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:03:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:04:00,X (Twitter),Data Science and AI,Kenya,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:06:00,X (Twitter),Healthcare Data Analytics,Rwanda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:07:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:08:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:10:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:19:00,X (Twitter),Data Science and AI,Sierra Leone,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:27:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:27:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:29:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:30:00,X (Twitter),Data Science and AI,Malawi,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:31:00,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:33:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:37:00,X (Twitter),Financial Analytics,Liberia,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:40:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:40:00,X (Twitter),Data Science and AI,United Kingdom,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:45:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:47:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:47:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:48:00,Referral,Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:49:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:49:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:50:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:51:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:53:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 22:57:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:00:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:01:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:02:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:03:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:04:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:04:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:08:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:11:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:14:00,WhatsApp,Data Science and AI,Ghana,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:21:00,X (Twitter),Sales and Marketing Analytics,United Kingdom,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:21:00,X (Twitter),Data Science and AI,United Kingdom,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:25:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:25:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:27:00,X (Twitter),Sales and Marketing Analytics,Kenya,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:28:00,X (Twitter),Financial Analytics,South Africa,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:30:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:37:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:39:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:40:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:41:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:41:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:44:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:46:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:48:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:51:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:53:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:57:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:57:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-22 23:58:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-22,Thursday,January
+2026-01-23 00:05:00,X (Twitter),Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:10:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:10:00,X (Twitter),Data Science and AI,Zambia,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:12:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:15:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:23:00,X (Twitter),Financial Analytics,Senegal,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:30:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:30:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:33:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:42:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:43:00,WhatsApp,Sales and Marketing Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:48:00,X (Twitter),Healthcare Data Analytics,Kuwait,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:49:00,Referral,Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 00:57:00,X (Twitter),Data Science and AI,Turkey,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:00:00,X (Twitter),Healthcare Data Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:03:00,X (Twitter),Financial Analytics,Canada,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:04:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:04:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:13:00,X (Twitter),Healthcare Data Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:16:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:18:00,WhatsApp,Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:21:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:25:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:26:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:29:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:36:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:42:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:55:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 01:57:00,X (Twitter),Data Science and AI,Brazil,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 02:00:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 02:07:00,X (Twitter),Healthcare Data Analytics,Canada,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 02:15:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 02:15:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 02:48:00,WhatsApp,Financial Analytics,Ghana,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:09:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:14:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:24:00,X (Twitter),Healthcare Data Analytics,United States,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:28:00,X (Twitter),Data Science and AI,Kenya,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:34:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:34:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:36:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:48:00,WhatsApp,Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:51:00,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:53:00,X (Twitter),Data Science and AI,United States,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 03:57:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 04:00:00,X (Twitter),Healthcare Data Analytics,United Kingdom,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 04:05:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 04:36:00,Facebook,Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 04:57:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:05:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:12:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:27:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:33:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:44:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:47:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:53:00,WhatsApp,Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 05:56:00,X (Twitter),Data Science and AI,India,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 06:04:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 06:33:00,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 06:39:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 06:48:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 06:50:00,X (Twitter),Data Science and AI,Zimbabwe,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:08:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:08:00,WhatsApp,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:18:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:23:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Prefer not to say,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:30:00,X (Twitter),Data Science and AI,Invalid Entry,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:34:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:37:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:39:00,Facebook,Healthcare Data Analytics,United Kingdom,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:42:00,X (Twitter),Financial Analytics,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:43:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 07:46:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:07:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:16:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:18:00,WhatsApp,Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:19:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:20:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:21:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:32:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:38:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:52:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 08:52:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:02:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:03:00,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:05:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:07:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:07:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:12:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:12:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:16:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:20:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:24:00,X (Twitter),Data Science and AI,United Kingdom,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:28:00,X (Twitter),Sales and Marketing Analytics,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:33:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:34:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:36:00,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:38:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:39:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:41:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:42:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:43:00,X (Twitter),Sales and Marketing Analytics,Lesotho,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:43:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:44:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:50:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:51:00,X (Twitter),Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 09:54:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:00:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:03:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:07:00,X (Twitter),Financial Analytics,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:08:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:10:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:10:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:13:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:13:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:14:00,X (Twitter),Financial Analytics,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:17:00,LinkedIn,Healthcare Data Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:17:00,WhatsApp,Financial Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:17:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:21:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:25:00,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:28:00,LinkedIn,Sales and Marketing Analytics,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:29:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:45:00,Instagram,Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:49:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:50:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 10:50:00,X (Twitter),Data Science and AI,Zimbabwe,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:11:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:11:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:12:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:14:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:16:00,X (Twitter),Data Science and AI,United Kingdom,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:19:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:21:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:23:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:24:00,X (Twitter),Healthcare Data Analytics,Zimbabwe,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:52:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:54:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:55:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 11:55:00,X (Twitter),Data Science and AI,South Africa,Prefer not to say,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:01:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:02:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:09:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:18:00,X (Twitter),Data Science and AI,Nigeria,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:24:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:35:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:35:00,Facebook,Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:37:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 12:54:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:06:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:11:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:15:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:25:00,X (Twitter),Financial Analytics,Invalid Entry,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:32:00,LinkedIn,Healthcare Data Analytics,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:34:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:37:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:44:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:45:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:50:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:51:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:58:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 13:59:00,X (Twitter),Sales and Marketing Analytics,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:01:00,WhatsApp,Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:01:00,LinkedIn,Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:07:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:13:00,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:17:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:19:00,X (Twitter),Data Science and AI,Uganda,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:20:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:21:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 14:28:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 15:25:00,X (Twitter),Data Science and AI,Ghana,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 15:49:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 15:55:00,X (Twitter),Healthcare Data Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 16:07:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 16:18:00,X (Twitter),Financial Analytics,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 16:23:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 16:26:00,X (Twitter),Data Science and AI,South Africa,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 17:10:00,WhatsApp,Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 17:11:00,WhatsApp,Healthcare Data Analytics,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 17:31:00,LinkedIn,Financial Analytics,Nigeria,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 17:46:00,X (Twitter),Healthcare Data Analytics,United Kingdom,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 18:12:00,X (Twitter),Financial Analytics,Kenya,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 18:13:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 18:52:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 19:00:00,X (Twitter),Financial Analytics,Kenya,Female,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 19:17:00,X (Twitter),Data Science and AI,Ivory Coast,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-23 20:13:00,X (Twitter),Data Science and AI,Kenya,Male,Cohort 9,True,2026-01-23,Friday,January
+2026-01-24 06:11:00,X (Twitter),Data Science and AI,India,Female,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 07:15:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 09:24:00,X (Twitter),Data Science and AI,Sweden,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 10:42:00,X (Twitter),Data Science and AI,United States,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 11:37:00,LinkedIn,Financial Analytics,Zambia,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 12:49:00,LinkedIn,Data Science and AI,Nigeria,Female,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 13:15:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 14:17:00,Instagram,Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 14:46:00,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 14:54:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 15:39:00,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 20:23:00,LinkedIn,Data Science and AI,South Africa,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 21:06:00,X (Twitter),Data Science and AI,United States,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-24 21:12:00,LinkedIn,Financial Analytics,Zambia,Male,Cohort 9,False,2026-01-24,Saturday,January
+2026-01-25 12:17:00,Referral,Data Science and AI,South Africa,Male,Cohort 9,False,2026-01-25,Sunday,January
+2026-01-25 12:54:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 9,False,2026-01-25,Sunday,January
+2026-01-25 15:34:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-25,Sunday,January
+2026-01-25 15:52:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-25,Sunday,January
+2026-01-26 06:03:00,X (Twitter),Sales and Marketing Analytics,Kenya,Female,Cohort 9,False,2026-01-26,Monday,January
+2026-01-26 11:16:00,X (Twitter),Data Science and AI,South Africa,Female,Cohort 9,False,2026-01-26,Monday,January
+2026-01-26 11:59:00,Referral,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-26,Monday,January
+2026-01-26 17:46:00,WhatsApp,Data Science and AI,Ireland,Male,Cohort 9,False,2026-01-26,Monday,January
+2026-01-26 20:28:00,X (Twitter),Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-26,Monday,January
+2026-01-27 12:12:00,LinkedIn,Data Science and AI,Nigeria,Male,Cohort 9,False,2026-01-27,Tuesday,January
+2026-01-28 18:48:00,LinkedIn,Data Science and AI,South Africa,Female,Cohort 9,False,2026-01-28,Wednesday,January
+2026-01-29 05:48:00,LinkedIn,Sales and Marketing Analytics,Ghana,Female,Cohort 9,False,2026-01-29,Thursday,January
+2026-01-29 08:26:00,LinkedIn,Data Science and AI,Nigeria,Female,Cohort 9,False,2026-01-29,Thursday,January
+2026-01-29 17:22:00,Referral,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-29,Thursday,January
+2026-01-30 08:59:00,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 9,False,2026-01-30,Friday,January
+2026-01-31 02:05:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-31,Saturday,January
+2026-01-31 02:45:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-01-31,Saturday,January
+2026-02-01 22:17:00,LinkedIn,Financial Analytics,Nigeria,Male,Cohort 9,False,2026-02-01,Sunday,February
+2026-02-02 14:47:00,LinkedIn,Healthcare Data Analytics,United Kingdom,Female,Cohort 9,False,2026-02-02,Monday,February
+2026-02-03 19:39:00,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 9,False,2026-02-03,Tuesday,February
+2026-02-04 10:32:00,LinkedIn,Healthcare Data Analytics,Zimbabwe,Male,Cohort 9,False,2026-02-04,Wednesday,February
+2026-05-06 11:03:32,LinkedIn,Financial Analytics,Nigeria,Male,Cohort 10,False,2026-05-06,Wednesday,May
+2026-05-06 15:19:31,LinkedIn,Data science and ML,Uganda,Female,Cohort 10,False,2026-05-06,Wednesday,May
+2026-05-06 17:02:15,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 10,False,2026-05-06,Wednesday,May
+2026-05-06 22:54:00,LinkedIn,Supply Chain Analytics,Nigeria,Female,Cohort 10,False,2026-05-06,Wednesday,May
+2026-05-07 12:14:57,X (Twitter),Data science and ML,Kenya,Female,Cohort 10,False,2026-05-07,Thursday,May
+2026-05-07 13:18:04,X (Twitter),Data science and ML,Ghana,Female,Cohort 10,False,2026-05-07,Thursday,May
+2026-05-07 18:03:06,WhatsApp,Data science and ML,Nigeria,Female,Cohort 10,False,2026-05-07,Thursday,May
+2026-05-08 12:16:43,Referral,Supply Chain Analytics,Nigeria,Female,Cohort 10,False,2026-05-08,Friday,May
+2026-05-11 05:33:39,Referral,Healthcare Data Analytics,Nigeria,Female,Cohort 10,False,2026-05-11,Monday,May
+2026-05-11 12:35:47,WhatsApp,Sales and Marketing Analytics,Nigeria,Female,Cohort 10,False,2026-05-11,Monday,May
+2026-05-12 09:15:05,LinkedIn,Data science and ML,Namibia,Female,Cohort 10,False,2026-05-12,Tuesday,May
+2026-05-13 14:21:48,LinkedIn,Supply Chain Analytics,Kenya,Female,Cohort 10,False,2026-05-13,Wednesday,May
+2026-05-14 15:57:44,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 16:26:33,X (Twitter),Financial Analytics,Ghana,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 16:34:43,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:02:55,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:04:12,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:04:35,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:19:23,X (Twitter),Data science and ML,South Africa,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:27:49,X (Twitter),Data science and ML,Ivory Coast,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:27:51,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:34:43,X (Twitter),Supply Chain Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 17:43:51,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:06:47,Facebook,Healthcare Data Analytics,South Africa,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:07:45,X (Twitter),Healthcare Data Analytics,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:12:49,X (Twitter),Data science and ML,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:15:45,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:18:47,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:18:49,X (Twitter),Sales and Marketing Analytics,South Africa,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:21:09,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:22:57,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:30:31,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:32:11,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:33:07,X (Twitter),Data science and ML,Ghana,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:36:44,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:41:11,X (Twitter),Data science and ML,United Kingdom,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:42:41,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:43:17,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:43:57,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:44:11,X (Twitter),Data science and ML,Kenya,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:50:26,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 18:56:37,X (Twitter),Data science and ML,Zimbabwe,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:03:06,X (Twitter),Sales and Marketing Analytics,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:04:00,X (Twitter),Supply Chain Analytics,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:04:11,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:05:03,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:05:10,X (Twitter),Financial Analytics,South Africa,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:12:28,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:12:56,X (Twitter),Data science and ML,Ghana,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:16:04,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:17:22,X (Twitter),Data science and ML,United States,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:26:25,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:26:36,X (Twitter),Data science and ML,South Africa,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:29:54,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:34:20,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:34:52,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:35:25,X (Twitter),Supply Chain Analytics,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:39:33,X (Twitter),Data science and ML,South Africa,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:40:37,X (Twitter),Financial Analytics,Ireland,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:41:59,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:42:46,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:43:38,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:45:13,X (Twitter),Data science and ML,Canada,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:47:13,X (Twitter),Data science and ML,Nigeria,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:50:12,X (Twitter),Data science and ML,South Africa,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:52:42,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:57:18,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 19:58:42,X (Twitter),Data science and ML,Ghana,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:07:11,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:08:45,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:10:36,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:11:06,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:15:25,X (Twitter),Healthcare Data Analytics,Zimbabwe,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:23:06,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:25:03,X (Twitter),Data science and ML,Ghana,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:26:49,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:27:44,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:32:00,X (Twitter),Data science and ML,South Africa,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:39:19,X (Twitter),Data science and ML,Uganda,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:39:41,X (Twitter),Healthcare Data Analytics,United States,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:39:51,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 20:45:19,X (Twitter),Supply Chain Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:02:53,WhatsApp,Supply Chain Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:11:29,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:20:58,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:27:52,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:30:40,X (Twitter),Data science and ML,Sierra Leone,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:38:38,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:39:50,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 21:54:20,X (Twitter),Supply Chain Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 22:44:26,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 22:46:57,X (Twitter),Sales and Marketing Analytics,India,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 22:56:43,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 23:06:31,LinkedIn,Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 23:16:39,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-14 23:38:03,X (Twitter),Sales and Marketing Analytics,Ghana,Female,Cohort 10,True,2026-05-14,Thursday,May
+2026-05-15 00:16:32,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 01:50:55,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 02:46:45,X (Twitter),Data science and ML,Uganda,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 03:00:30,Facebook,Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 03:17:04,X (Twitter),Healthcare Data Analytics,Ghana,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 03:53:57,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 05:11:29,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 05:38:38,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 05:42:49,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 05:49:35,X (Twitter),Healthcare Data Analytics,Uganda,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 06:43:30,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 06:56:52,X (Twitter),Financial Analytics,Kenya,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 07:14:04,X (Twitter),Data science and ML,Uganda,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 07:16:44,X (Twitter),Healthcare Data Analytics,Kenya,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 07:23:06,X (Twitter),Data science and ML,Uganda,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 07:45:08,Referral,Supply Chain Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 08:34:30,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 08:41:25,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 08:41:55,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 08:52:18,X (Twitter),Healthcare Data Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 09:34:07,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 09:37:46,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 09:45:30,X (Twitter),Data science and ML,Kenya,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 09:48:57,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 10:04:15,X (Twitter),Sales and Marketing Analytics,Namibia,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 10:08:10,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 10:48:48,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 11:01:21,X (Twitter),Financial Analytics,Cameroon,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 11:25:17,X (Twitter),Healthcare Data Analytics,Kenya,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 12:55:03,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 13:04:39,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 14:16:26,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 14:52:06,X (Twitter),AI Automation,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 16:07:37,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 17:57:24,X (Twitter),Healthcare Data Analytics,Ethiopia,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 18:06:41,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 18:26:22,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 18:34:32,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 18:38:19,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 19:15:08,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,True,2026-05-15,Friday,May
+2026-05-15 20:55:47,X (Twitter),AI Automation,Nigeria,Female,Cohort 10,True,2026-05-15,Friday,May
+2026-05-16 03:57:54,X (Twitter),Supply Chain Analytics,Nigeria,Male,Cohort 10,False,2026-05-16,Saturday,May
+2026-05-16 07:12:26,X (Twitter),AI Automation,Nigeria,Male,Cohort 10,False,2026-05-16,Saturday,May
+2026-05-16 08:21:39,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,False,2026-05-16,Saturday,May
+2026-05-16 08:23:29,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,False,2026-05-16,Saturday,May
+2026-05-16 11:44:15,X (Twitter),Financial Analytics,Nigeria,Female,Cohort 10,False,2026-05-16,Saturday,May
+2026-05-16 12:11:32,X (Twitter),Data science and ML,Nigeria,Female,Cohort 10,False,2026-05-16,Saturday,May
+2026-05-20 14:03:08,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,False,2026-05-20,Wednesday,May
+2026-05-20 14:09:41,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,False,2026-05-20,Wednesday,May
+2026-05-21 20:49:50,X (Twitter),Healthcare Data Analytics,South Africa,Female,Cohort 10,False,2026-05-21,Thursday,May
+2026-05-21 21:05:44,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,False,2026-05-21,Thursday,May
+2026-05-21 21:10:00,X (Twitter),Sales and Marketing Analytics,Nigeria,Female,Cohort 10,False,2026-05-21,Thursday,May
+2026-05-22 06:16:59,WhatsApp,Data science and ML,Kenya,Male,Cohort 10,False,2026-05-22,Friday,May
+2026-05-23 16:32:54,X (Twitter),AI Automation,Kenya,Male,Cohort 10,False,2026-05-23,Saturday,May
+2026-05-28 17:26:35,Referral,Data science and ML,Namibia,Female,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 17:54:05,X (Twitter),Data science and ML,Invalid Entry,Male,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 18:36:22,X (Twitter),Sales and Marketing Analytics,Kenya,Male,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 19:43:59,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 20:31:18,X (Twitter),Data science and ML,South Africa,Female,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 22:21:10,X (Twitter),Healthcare Data Analytics,Nigeria,Female,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 23:04:09,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-28 23:04:30,LinkedIn,Data science and ML,United Kingdom,Male,Cohort 10,False,2026-05-28,Thursday,May
+2026-05-29 00:48:49,X (Twitter),Sales and Marketing Analytics,Nigeria,Male,Cohort 10,False,2026-05-29,Friday,May
+2026-05-29 01:58:39,X (Twitter),AI Automation,United States,Female,Cohort 10,False,2026-05-29,Friday,May
+2026-05-29 07:21:46,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,False,2026-05-29,Friday,May
+2026-05-29 07:44:43,X (Twitter),Data science and ML,Nigeria,Male,Cohort 10,False,2026-05-29,Friday,May
+2026-05-29 08:14:14,X (Twitter),AI Automation,Nigeria,Male,Cohort 10,False,2026-05-29,Friday,May
+2026-05-30 23:46:36,LinkedIn,Data science and ML,Namibia,Female,Cohort 10,False,2026-05-30,Saturday,May
+2026-06-01 19:00:49,X (Twitter),Financial Analytics,Nigeria,Male,Cohort 10,False,2026-06-01,Monday,June
+2026-06-01 22:08:05,LinkedIn,Sales and Marketing Analytics,Nigeria,Male,Cohort 10,False,2026-06-01,Monday,June
+2026-06-03 13:21:08,LinkedIn,Financial Analytics,Ghana,Male,Cohort 10,False,2026-06-03,Wednesday,June
+2026-06-04 05:33:32,LinkedIn,Healthcare Data Analytics,Nigeria,Female,Cohort 10,False,2026-06-04,Thursday,June
