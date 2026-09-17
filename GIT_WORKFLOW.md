@@ -1,7 +1,10 @@
 # Branching Strategy
 
-This project uses a single `main` branch with direct, sequential commits, rather than the `main`/`develop`/feature-branch structure.
-That is a deliberate choice, not a shortcut. `sales-data-pipeline` was built specifically to demonstrate team-based Git practice: branching, pull requests, a deliberately triggered and manually resolved merge conflict, and recovering from a base-branch mistake. This project has a different purpose. It is a one-week solo analysis challenge with a single contributor and no parallel workstreams, so a branching workflow would add process for its own sake rather than solving a real problem. Knowing when a lighter workflow is the right call, and not defaulting to the heaviest process available, is itself part of working like an analyst rather than performing one.
+# Branching Strategy
+
+This project uses a single `main` branch with direct, sequential commits rather than a branching or pull-request workflow.
+
+That is a deliberate choice, not a shortcut. This is a one-week solo analysis challenge with a single contributor and no parallel workstreams, so a branching workflow would add process for its own sake rather than solving a real problem. Knowing when a lighter workflow is the right call, and not defaulting to the heaviest process available, is itself part of working like an analyst rather than performing one.
 
 Every commit here is still a complete, meaningful unit of work with a message that explains what changed and why, so the commit history reads as a build log on its own, alongside the reasoning captured in the notebooks.
 
