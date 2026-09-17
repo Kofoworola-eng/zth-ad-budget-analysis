@@ -29,9 +29,31 @@ Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook (VS Code)
 zth-ad-budget-analysis/
 ├── data/
 │   ├── raw/
+│   │   ├── cohort_9_raw.csv
+│   │   └── cohort_10_raw.csv
 │   └── processed/
+│       ├── cohort9_clean.csv
+│       ├── cohort10_clean.csv
+│       └── tableau_combined.csv
 ├── notebooks/
+│   ├── 01_data_inspection.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+│   └── 03_dashboard.ipynb
 ├── outputs/
+│   ├── chart1_channel_comparison.png
+│   ├── chart2_geo_channel_mix.png
+│   ├── chart3_course_shift.png
+│   ├── chart4_timing_spikes.png
+│   ├── dashboard_combined.png
+│   └── tableau_dashboard_preview.png
+├── presentation/
+│   └── Zion_Tech_Hub_Ad_Budget_and_Growth_Recommendations.pdf
+├── reports/
+│   ├── assumptions.md
+│   ├── findings_summary.md
+│   └── recommendations.md
+├── .gitignore
+├── GIT_WORKFLOW.md
 ├── README.md
 └── requirements.txt
 ```
