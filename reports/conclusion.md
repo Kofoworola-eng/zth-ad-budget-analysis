@@ -77,3 +77,25 @@ Nigeria, South Africa, Ghana, and Kenya are consistently your top four countries
 
 **7. Lean into the founder's personal brand as a zero-cost growth lever for LinkedIn and Healthcare Data Analytics.**
 The data shows LinkedIn is Zion Tech Hub's steadiest channel and disproportionately brings in Healthcare Data Analytics registrants. A likely driver behind this (based on founder context, not the dataset itself) is that the CEO's own professional background and following as a healthcare data analyst gives LinkedIn a natural, credible audience for that specific course. If that's accurate, this isn't just a channel to fund with ads, it's a channel to actively publicize through the founder's own voice: more frequent story-sharing, testimonials, or behind-the-scenes content from the CEO on LinkedIn could compound LinkedIn's existing strength at little to no extra ad spend, while directly counteracting the Healthcare Data Analytics decline flagged above.
+
+## Recommendations for Future Data Collection
+
+Beyond the ad budget and growth recommendations above, several of the cleaning challenges in this project point to specific, fixable gaps in how registration data is collected. Addressing these before Cohort 11 opens would mean future analysis starts from clean data rather than needing this same cleanup work repeated.
+
+**1. Replace free-text Country and Occupation fields with dropdown/select lists.**
+This alone would have prevented most of the mess: no more "Ghan," "Niger" vs "Nigeria," phone numbers typed into the wrong field, or the 100+ inconsistent occupation entries in Cohort 10. A dropdown forces valid, consistent values at the point of entry instead of needing to be cleaned after the fact.
+
+**2. Make every field required and consistent across every cohort's form.**
+Cohort 9's form was missing the Occupation field entirely, which meant an entire dimension of analysis, who is actually registering, couldn't be done for half the data. Before Cohort 11 opens, lock the form fields so every cohort collects the exact same fields, in the exact same format.
+
+**3. Check for existing registrations before accepting a new one.**
+43 duplicate registrations in Cohort 9 alone came from people submitting the form more than once. A simple check by email address, "You've already registered, would you like to update your existing registration instead?", would stop duplicates at the source instead of needing to be resolved afterward.
+
+**4. If phone numbers need to be de-identified for privacy, do it in a way that stays unique.**
+The short, de-identified phone numbers in this dataset actually collided between unrelated people. If de-identification is a deliberate privacy step, use a method that preserves uniqueness (like a consistent hash or assigned ID) rather than truncation, so duplicate-checking still works reliably.
+
+**5. Keep a stable internal ID for each course, even if the display name changes.**
+Cohort 10 introduced course names that may or may not be the same as Cohort 9's, there was no way to tell from the data alone. If a course is renamed or repositioned between cohorts, keep a consistent internal reference so a genuine rename doesn't look like a totally different course in future analysis.
+
+**6. Log the registration source (campaign, post, or link) alongside the channel.**
+The spikes found in this analysis were real and not a data problem, but distinguishing organic growth from one campaign that happened to work would be far easier with a campaign or UTM-style tag on the registration link, rather than reconstructing it after the fact from timestamps.
