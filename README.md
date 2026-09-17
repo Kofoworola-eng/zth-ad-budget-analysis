@@ -16,8 +16,8 @@ Every recommendation in this project is tied directly to a specific, traceable p
 
 ## Data
 
-- `data/raw/` — original, untouched exports (Cohort 9: 1,092 registrations, Cohort 10: 171 registrations)
-- `data/processed/` — cleaned versions used for analysis
+- `data/raw/` : original, untouched exports (Cohort 9: 1,092 registrations, Cohort 10: 171 registrations)
+- `data/processed/` : cleaned versions used for analysis
 
 ## Tools Used
 
