@@ -62,4 +62,28 @@ Removed the original `.pptx` once the PDF was confirmed as the version people wo
 **`Update project structure tree to reflect final repo`**
 Updated the folder-tree diagram in the README to match the real, final layout, deliberately left until this point rather than edited every time a new folder appeared, so it only needed to be written once, correctly, against the finished project.
 
+**`Expand git workflow log with full commit history and reasoning`**
+Extended this document from its original six-commit log to narrate every commit through the finished project, presentation, structure tree, and all, closing the gap between what this file described and what the repo actually contained by that point.
+
+**`Update GIT_WORKFLOW.md` / `Revise branching strategy explanation in GIT_WORKFLOW.md` / `Update GIT_WORKFLOW.md`**
+Three follow-up commits correcting the branching strategy section, which originally compared this project's workflow to an unrelated prior project (`sales-data-pipeline`) for context. On review, that comparison didn't belong in this repo's own documentation, a reader with no knowledge of that other project would find it confusing rather than clarifying. Rewrote the section to stand on its own, explaining the single-branch choice without referencing anything outside this project.
+
+**`Update README.md`**
+A general pass over the README's wording and formatting ahead of the more substantive description fix that followed.
+
+**`Fix README description to accurately reflect course offerings`**
+The README's opening description named a single "Sales, Marketing and Supply Chain Analytics Program" as what the project analyzed. That didn't match the actual data, registrants were choosing between several distinct courses (Data Science and AI, Healthcare Data Analytics, Financial Analytics, Sales and Marketing Analytics), not one program. Corrected the description to name the actual courses in the dataset.
+
+**`Add consolidated conclusion answering the three brief questions directly`**
+Up to this point, the answers to the challenge's three core questions were spread across `findings_summary.md`, `recommendations.md`, and the ad budget table, technically all present, but requiring a reader to piece them together themselves. Added `conclusion.md` as a direct question-and-answer document, and in doing so closed two real gaps that review surfaced: the ad budget recommendation had never been tied to *who* to target by occupation, and the international growth answer had identified four consistent markets without ever naming which one to prioritize next. Pulled the actual occupation breakdown and country-by-country numbers from the cleaned data to answer both properly rather than leaving them as an open direction.
+
+**`Consolidate reports into conclusion.md and findings.md for readability`**
+With `conclusion.md` now existing alongside the original `recommendations.md`, `findings_summary.md`, and `assumptions.md`, the `reports/` folder had four overlapping documents where an examiner would reasonably expect one narrative. Merged `recommendations.md` into `conclusion.md` (direct answers first, full ad budget and growth recommendations underneath) and merged `assumptions.md` into a new `findings.md` (methodology first, then the full findings narrative). No content was removed in the merge, only reorganized so related material sits together instead of requiring four separate files to be cross-referenced by hand.
+
+**`Add recommendations for future data collection`**
+Every cleaning challenge in this project, the free-text country and occupation fields, the missing occupation column in Cohort 9, the duplicate registrations, the short de-identified phone numbers that collided between unrelated people, traces back to a fixable gap in how the registration form itself is built. Added a closing section to `conclusion.md` translating each specific anomaly found during cleaning into a concrete form or process change, so the same cleanup work doesn't have to be repeated for Cohort 11's data.
+
+**`Update README: fix report links, structure tree, and add missing third question`**
+With the reports consolidated, every README link pointing to the old `findings_summary.md`, `recommendations.md`, and `assumptions.md` filenames was now broken, and the project structure tree still showed four files in `reports/` instead of two. Fixed both. Also caught, while reviewing the README end to end, that the "core questions this analysis answers" section only listed two of the challenge's three questions, the international growth question was missing entirely, despite being fully answered elsewhere in the project. Added it back in.
+
 This log reflects the project as it actually happened, in the order it happened, rather than a cleaned-up version of events after the fact.
